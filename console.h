@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include <Windows.h>
-#include "Utils.h"
+#include "types.h"
 
 // 콘솔창과 관련된 기본적인 함수들을 담고 있는 namespace 입니다.
 // 콘솔창은 세로가 가로보다 2 배 정도 더 길다는 것 참고해주세요. (가로 5, 세로 5인 사각형이 정사각형이 아님)
